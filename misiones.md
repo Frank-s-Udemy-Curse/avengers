@@ -1,3 +1,4 @@
 #Misiones
 
-* Investigar los planes de Dr. Domm
+- Investigar los planes de Dr. Domm
+- Capturar a Red Skull
